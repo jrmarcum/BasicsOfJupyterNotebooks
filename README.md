@@ -1,1 +1,1 @@
-# Basics of Coding Jupyter Notebooks
+# Basics of Jupyter Notebooks
